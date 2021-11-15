@@ -42,7 +42,7 @@ namespace Blazor344.Pages
         protected override async Task OnInitializedAsync()
         {
             id = id ?? "1";
-            Employee = await EmployeeService.GetEmployee(int.Parse(id));
+            Employee = await EmployeeService.GetById(int.Parse(id));
         }
     }
 }

@@ -147,6 +147,59 @@
         }
       },
       {
+        "HashCode": 1087156010,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Pages.EditEmployee",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Pages.EditEmployee"
+        }
+      },
+      {
+        "HashCode": -1145553609,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Pages.EditEmployee",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor344.Pages.EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -2122852709,
         "Kind": "Components.Component",
         "Name": "Blazor344.Pages.EmployeePage",
@@ -13238,6 +13291,11 @@
     {
       "FilePath": "c:\\72190344_Tugas6\\Blazor\\Blazor344\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\72190344_Tugas6\\Blazor\\Blazor344\\Pages\\EditEmployee.razor",
+      "TargetPath": "Pages\\EditEmployee.razor",
       "FileKind": "component"
     }
   ],
